@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Welcome to Gentle_Ego!" src="banner.gif" /></p>
+<p align="center"><img width="80%" alt="Welcome to Gentle_Ego!"/></p>
 
 <h1 align="center">👋 Welcome to my world, I'm <a href="https://github.com/Gentle-Ego">Gentle_Ego!</a></h1>  
 <p align="center">An Italian student passionate about <b>Physics</b>, <b>Programming</b>, and creating the future!</p>  
