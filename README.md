@@ -40,7 +40,7 @@ This C++ terminal-based RPG throws you into procedurally generated dungeons with
 <code><img height="30" alt="c" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
 <code><img height="30" alt="java" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="30" alt="node-js.png" src="https://raw.githubusercontent.com/github/explore/master/topics/node-js.png/node-js.png"></code>
+<code><img height="30" alt="node.png" src="https://raw.githubusercontent.com/github/explore/master/topics/node.png/node.png"></code>
 <code><img height="30" alt="php" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
 <code><img height="30" alt="html" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
 <code><img height="30" alt="css" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
