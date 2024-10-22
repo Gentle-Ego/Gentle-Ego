@@ -62,5 +62,5 @@ I’m always open to learning, growing, and creating with others. Whether you wa
 <p align="center">
 <a href="mailto:gentle.ego.dev@gmail.com"><img alt="Email Me" src="https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Gentle-Ego"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/gentle-ego/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.com/users/857925971004882975"><img alt="Discord" src="https://img.shields.io/badge/My-Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
