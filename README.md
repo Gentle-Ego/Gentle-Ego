@@ -22,7 +22,7 @@ This C++ terminal-based RPG throws you into procedurally generated dungeons with
 
 - **Languages**: Python, C++, C#, C, Java, JavaScript (Node.js), PHP, HTML, CSS, SQL – Each one a tool in my growing arsenal to build systems that connect imagination with reality.
 - **Physics Enthusiast**: My passion lies in particle physics, general relativity, and quantum mechanics, blending the abstract and concrete through computer simulations.
-- **Current Studies**: Deep diving into topics like **motion physics**, **uniform acceleration**, and beyond.
+- **Current Studies**: Deep diving into topics like **quantum physics**, **particles interaction**, and beyond.
 - **Discord Bot Developer**: I specialize in creating smart systems for D&D campaigns, and I’ve got plenty of future features planned, like implementing efficient SQL databases and API integrations.
 - **Math Nerd**: Sure, I forget formulas sometimes, but when it comes to problem-solving, there’s no stopping me. Mathematics helps me simulate reality, and it’s a critical part of my research in **Physics**.
 - **Future Goals**: I’m working to become a **Physics researcher**, focusing on **particles** and **quantum mechanics**, with an eye on harnessing **AI** for my simulations.
