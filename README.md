@@ -20,13 +20,13 @@ This C++ terminal-based RPG throws you into procedurally generated dungeons with
 
 ### 👨‍💻 About Me  
 
-- **Languages**: Python, C++, C#, C, Java, JavaScript (Node.js), PHP, HTML, CSS, SQL, Dart (Flutter framework) – Each one a tool in my growing arsenal to build systems that connect imagination with reality.
+- **Languages**: Python, C++, C#, C, Java, JavaScript (Node.js), PHP, HTML, CSS, SQL, JSON (yes for me it's a programming language), Dart (Flutter framework) – Each one a tool in my growing arsenal to build systems that connect imagination with reality.
 - **Physics Enthusiast**: My passion lies in particle physics, general relativity, and quantum mechanics, blending the abstract and concrete through computer simulations.
 - **Current Studies**: Deep diving into topics like **quantum physics**, **particles interaction**, and beyond.
 - **Discord Bot Developer**: I specialize in creating smart systems for D&D campaigns, and I’ve got plenty of future features planned, like implementing efficient SQL databases and API integrations.
 - **Math Nerd**: Sure, I forget formulas sometimes, but when it comes to problem-solving, there’s no stopping me. Mathematics helps me simulate reality, and it’s a critical part of my research in **Physics**.
-- **Future Goals**: I’m working to become a **Physics researcher**, focusing on **particles** and **quantum mechanics**, with an eye on harnessing **AI** for my simulations.
-- **Hobbies**: A proud anime lover and hardcore **chess player** with an ELO of 1781. Call me "**Hotaku**," a nickname my friends gave me because of my love for both **coding** and **anime**.
+- **Future Goals**: I’m working to become a **Physics researcher**, focusing on **particles**, **quantum mechanics** and **astrophysics**, with an eye on harnessing **AI** for my simulations.
+- **Hobbies**: A proud anime lover and hardcore **chess player** with an ELO of 1891 (in 30min+). You can define me "**Hotaku**", a nickname my friends gave me because of my love for both **coding** and **anime**.
 - **Late-Night Coder**: Nicknamed the "**Night Owl**" because when I get into a project, I code deep into the night, often forgetting the concept of time itself!
 
 ---
@@ -45,6 +45,7 @@ This C++ terminal-based RPG throws you into procedurally generated dungeons with
 <code><img height="30" alt="html" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
 <code><img height="30" alt="css" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
 <code><img height="30" alt="sql" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
+<code><img height="30" alt="json" src="https://raw.githubusercontent.com/github/explore/master/topics/json/json.png"></code>
 <code><img height="30" alt="dart" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"></code>
 <code><img height="30" alt="flutter" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"></code>
 </p>
