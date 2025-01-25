@@ -59,6 +59,12 @@ This C++ terminal-based RPG throws you into procedurally generated dungeons with
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gentle-ego&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### ✨ Let’s Collaborate!  
 I’m always open to learning, growing, and creating with others. Whether you want to discuss **Physics theories**, improve some **C++ code**, or join forces on **AI-powered research** tools, feel free to reach out.
 
