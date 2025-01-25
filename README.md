@@ -1,5 +1,5 @@
 <h1 align="center">👋 Welcome to my world, I'm <a href="https://github.com/Gentle-Ego">Gentle_Ego!</a></h1>  
-<p align="center">An Italian student passionate about <b>Physics</b>, <b>Programming</b>, and creating the future!</p>  
+<p align="center">A 2007 Italian student passionate about <b>Physics</b>, <b>Programming</b>, and creating the future!</p>  
 <p align="center">🚀 Dreaming of becoming the next <i>Leonardo da Vinci</i> of the 21st century!</p>
 
 ---
