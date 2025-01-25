@@ -11,7 +11,7 @@ A powerful **Discord bot** to manage Dungeons & Dragons campaigns effortlessly. 
 [Explore the Repo Here!](https://github.com/Gentle-Ego/DnD_Discord_Bot_Manager)
 
 🎲 **Relics & Ruins**  
-This C++ terminal-based RPG throws you into procedurally generated dungeons with turn-based combat. With its dynamic difficulty levels and a growing set of **leaderboards** tracking everything from the number of turns to best kill/death ratio, it’s an evolving challenge with every playthrough!  
+This C++ RPG throws you into procedurally generated dungeons with turn-based combat. With its dynamic difficulty levels and a growing set of **leaderboards** tracking everything from the number of turns to best kill/death ratio, it’s an evolving challenge with every playthrough!  
 [Check out the Code!](https://github.com/Gentle-Ego/Relics_And_Ruins)
 
 🌱 And that’s just the beginning... Future plans include **global character sharing**, **session calendars**, and even **premium dashboards** to push these projects to the next level. Stay tuned!
