@@ -55,7 +55,7 @@ This C++ RPG throws you into procedurally generated dungeons with turn-based com
 
 ### 📊 GitHub Stats
 
-| [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gentle_Ego)](https://git.io/awesome-stats-card)| <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gentle-Ego&layout=compact&theme=tokyonight&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gentle-Ego&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=Gentle-Ego&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gentle-Ego&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Gentle_Ego's GitHub stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gentle-Ego&layout=compact&theme=tokyonight&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gentle-Ego&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
