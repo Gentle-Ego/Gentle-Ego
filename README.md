@@ -20,7 +20,7 @@ This C++ RPG throws you into procedurally generated dungeons with turn-based com
 
 ### 👨‍💻 About Me  
 
-- **Languages**: Python, C++, C#, C, Java, JavaScript (Node.js), Typescript, PHP, HTML, CSS, SQL, JSON (yes for me it's a programming language), Dart (Flutter framework) – Each one a tool in my growing arsenal to build systems that connect imagination with reality.
+- **Languages**: Python, C++, C#, C, Java, JavaScript (Node.js), Typescript, HTML, CSS, SQL, JSON (yes for me it's a programming language), Dart (Flutter framework) – Each one a tool in my growing arsenal to build systems that connect imagination with reality.
 - **Physics Enthusiast**: My passion lies in particle physics, general relativity, and quantum mechanics, blending the abstract and concrete through computer simulations.
 - **Current Studies**: Deep diving into topics like **quantum physics**, **particles interaction**, and beyond.
 - **Discord Bot Developer**: I specialize in creating smart systems for D&D campaigns, and I’ve got plenty of future features planned, like implementing efficient SQL databases and API integrations.
@@ -42,7 +42,6 @@ This C++ RPG throws you into procedurally generated dungeons with turn-based com
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
 <code><img height="30" alt="node.png" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" alt="typescript" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
-<code><img height="30" alt="php" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
 <code><img height="30" alt="html" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
 <code><img height="30" alt="css" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
 <code><img height="30" alt="sql" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
