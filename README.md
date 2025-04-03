@@ -54,14 +54,14 @@ This C++ RPG throws you into procedurally generated dungeons with turn-based com
 
 ### 📊 GitHub Stats
 
-| <a href="https://github-readme-stats.vercel.app/api?username=GPT-Engineer-App&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GPT-Engineer-App&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Gentle_Ego's GitHub stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GPT-Engineer-App&layout=compact&theme=tokyonight&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPT-Engineer-App&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=Gentle-Ego&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gentle-Ego&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Gentle_Ego's GitHub stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gentle-Ego&layout=compact&theme=tokyonight&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gentle-Ego&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GPT-Engineer-App&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gentle-Ego&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
