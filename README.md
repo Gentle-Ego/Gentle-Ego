@@ -61,7 +61,7 @@ This C++ RPG throws you into procedurally generated dungeons with turn-based com
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gentle-Ego&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mattn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
