@@ -4,17 +4,10 @@
 
 ---
 
-### 🎮 Current Projects I'm Developing
+### Current Project(s) I'm Developing
 
-💡 **D&D Is Easy**  
-A powerful **Discord bot** to manage Dungeons & Dragons campaigns effortlessly. It handles sessions, characters, and campaigns, even tapping into **global databases** to make your D&D experience smoother than ever.   
-[Explore the Repo Here!](https://github.com/Gentle-Ego/DnD_Discord_Bot_Manager)
-
-🎲 **Relics & Ruins**  
-This C++ RPG throws you into procedurally generated dungeons with turn-based combat. With its dynamic difficulty levels and a growing set of **leaderboards** tracking everything from the number of turns to best kill/death ratio, it’s an evolving challenge with every playthrough!  
-[Check out the Code!](https://github.com/Gentle-Ego/Relics_And_Ruins)
-
-🌱 And that’s just the beginning... Future plans include **global character sharing**, **session calendars**, and even **premium dashboards** to push these projects to the next level. Stay tuned!
+**PolyTrader**
+A full on **Polymarket Paper Trader** strategy planner and bot creation platform. All easily customizable and with a User-Friendly website interface. Test your bots and analyze the BTC market! Find out more on the pinned Repo below!!!
 
 ---
 
